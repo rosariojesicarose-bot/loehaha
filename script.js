@@ -210,8 +210,7 @@ const SEED = [
   { t: dAgo(2, 21, 5), x: "to do ☑\n\n☑ pr las4\n☐ finish je's gift\n☐ apply ustet soon\n☐ nonfiction hw" },
   { t: dAgo(4, 16, 30), x: "books\n\n\nstrange houses\nsong of achilles\ndaisy jones\ni hope this doesnt find you\npicking daisies\nour violent ends" },
   { t: dAgo(9, 18, 45), x: "me\n\n\nhate frogs\nlowkey inaacid tuwing nagmmidnight snack\nust cutie\ni heart twix" },
-  { t: dAgo(16, 10, 15), x: "Model materials\n\n\nbasswood 3 mm\nchipboard 2 mm\nclear acetate\nwhite PVA glue\nsandpaper 400 grit" },
-  { t: dAgo(23, 12, 0), x: "Things to buy – school supplies\n\n\n• pencils 2H, HB, 2B, 6B\n• tracing paper roll\n• foam board (3 pcs)\n• cutter blades\n• masking tape\n• scale ruler\n• mechanical pencil 0.5\n• black fineliners 0.1 / 0.3 / 0.5\n• glue sticks\n• illustration board" }
+  { t: dAgo(16, 10, 15), x: "drinks!!!!\n\n\nwhite gatorade\npepsi lime zero\ncoke zero\nlemon tea\nmatcha\nmint mocha\nhojicha" },
 ];
 let notes = store.get("notes3", null) || SEED.map((n, i) => ({ id: i + 1, ...n }));
 let nid = null;
