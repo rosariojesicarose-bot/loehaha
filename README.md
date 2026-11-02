@@ -1,4 +1,4 @@
-# 📱 Karina Tuazon's Phone
+# 📱 eya's phone
 
 Take a peek at Karina Tuazon's phone.
 
